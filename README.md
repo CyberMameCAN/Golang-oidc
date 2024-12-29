@@ -7,8 +7,14 @@
 - [Golang](https://go.dev/) + [Gin](https://github.com/gin-gonic/gin)
 - etc...
 
-OpenID Connectの仕組みを理解するために、上記技術等を使わせていただいて、Golangでハンズオンした防備録になります。  
+[OpenID Connect](https://financial.ctc-g.co.jp/itinfo/2402-oidc)の仕組みを理解するために、上記技術等を使わせていただいて、Golangでハンズオンした忘備録になります。  
 ここのソースコードは[Auth0](https://auth0.com)のサンプルほぼそのまま使っています。
+
+### 参考にしたWebサイト
+
+- [GoでOpenID ConnectのClientを実装する（Auth0設定編）](https://times.hrbrain.co.jp/entry/go-openid-connect-auth0-setting)
+- [GoでOpenID ConnectのClientを実装する（実装編）](https://times.hrbrain.co.jp/entry/go-openid-connect-implement)
+
 
 ## Getting Started
 
