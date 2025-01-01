@@ -14,6 +14,7 @@
 
 - [GoでOpenID ConnectのClientを実装する（Auth0設定編）](https://times.hrbrain.co.jp/entry/go-openid-connect-auth0-setting)
 - [GoでOpenID ConnectのClientを実装する（実装編）](https://times.hrbrain.co.jp/entry/go-openid-connect-implement)
+- [【Go】Goのプロジェクトの雛形を作れるCLIツール「go-blueprint」を使ってみる](https://qiita.com/_ken_/items/316d682b43d61cc5e34b)
 
 
 ## Getting Started
