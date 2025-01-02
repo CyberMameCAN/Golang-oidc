@@ -21,6 +21,12 @@
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+## env
+
+    cp env.sample .env
+
+.envの初期値をよしなに変更する。
+
 ## MakeFile
 
 Run build make command with tests
